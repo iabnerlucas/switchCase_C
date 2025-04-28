@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade01", "Atividade01\Atividade01.csproj", "{3F118C73-2AB3-4944-833E-163A5CAD9FA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade01", "Atividade01\Atividade01.csproj", "{3F118C73-2AB3-4944-833E-163A5CAD9FA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conceito", "Coneito\Conceito.csproj", "{BF22B8B8-EF5A-4AB7-9B48-1821D6DC035D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conceito", "Coneito\Conceito.csproj", "{BF22B8B8-EF5A-4AB7-9B48-1821D6DC035D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{DEC29211-D098-4745-832F-D5F0CEADAE94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{BF22B8B8-EF5A-4AB7-9B48-1821D6DC035D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF22B8B8-EF5A-4AB7-9B48-1821D6DC035D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF22B8B8-EF5A-4AB7-9B48-1821D6DC035D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEC29211-D098-4745-832F-D5F0CEADAE94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC29211-D098-4745-832F-D5F0CEADAE94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC29211-D098-4745-832F-D5F0CEADAE94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC29211-D098-4745-832F-D5F0CEADAE94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
