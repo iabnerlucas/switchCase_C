@@ -1,0 +1,14 @@
+C:\Users\Abner55003396\Desktop\Switch Case\Atividade01\Coneito\bin\Debug\net7.0\Coneito.exe
+C:\Users\Abner55003396\Desktop\Switch Case\Atividade01\Coneito\bin\Debug\net7.0\Coneito.deps.json
+C:\Users\Abner55003396\Desktop\Switch Case\Atividade01\Coneito\bin\Debug\net7.0\Coneito.runtimeconfig.json
+C:\Users\Abner55003396\Desktop\Switch Case\Atividade01\Coneito\bin\Debug\net7.0\Coneito.dll
+C:\Users\Abner55003396\Desktop\Switch Case\Atividade01\Coneito\bin\Debug\net7.0\Coneito.pdb
+C:\Users\Abner55003396\Desktop\Switch Case\Atividade01\Coneito\obj\Debug\net7.0\Coneito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abner55003396\Desktop\Switch Case\Atividade01\Coneito\obj\Debug\net7.0\Coneito.AssemblyInfoInputs.cache
+C:\Users\Abner55003396\Desktop\Switch Case\Atividade01\Coneito\obj\Debug\net7.0\Coneito.AssemblyInfo.cs
+C:\Users\Abner55003396\Desktop\Switch Case\Atividade01\Coneito\obj\Debug\net7.0\Coneito.csproj.CoreCompileInputs.cache
+C:\Users\Abner55003396\Desktop\Switch Case\Atividade01\Coneito\obj\Debug\net7.0\Coneito.dll
+C:\Users\Abner55003396\Desktop\Switch Case\Atividade01\Coneito\obj\Debug\net7.0\refint\Coneito.dll
+C:\Users\Abner55003396\Desktop\Switch Case\Atividade01\Coneito\obj\Debug\net7.0\Coneito.pdb
+C:\Users\Abner55003396\Desktop\Switch Case\Atividade01\Coneito\obj\Debug\net7.0\Coneito.genruntimeconfig.cache
+C:\Users\Abner55003396\Desktop\Switch Case\Atividade01\Coneito\obj\Debug\net7.0\ref\Coneito.dll
