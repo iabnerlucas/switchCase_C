@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abner55003396\\Desktop\\Switch Case\\Estrutura de Repetição\\Atividade01\\Atividade01.csproj",
+      "projectUniqueName": "C:\\Users\\Abner55003396\\Desktop\\Repetição\\Estrutura de Repetição\\Atividade01\\Atividade01.csproj",
       "projectName": "Atividade01",
-      "projectPath": "C:\\Users\\Abner55003396\\Desktop\\Switch Case\\Estrutura de Repetição\\Atividade01\\Atividade01.csproj",
+      "projectPath": "C:\\Users\\Abner55003396\\Desktop\\Repetição\\Estrutura de Repetição\\Atividade01\\Atividade01.csproj",
       "packagesPath": "C:\\Users\\Abner55003396\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abner55003396\\Desktop\\Switch Case\\Estrutura de Repetição\\Atividade01\\obj\\",
+      "outputPath": "C:\\Users\\Abner55003396\\Desktop\\Repetição\\Estrutura de Repetição\\Atividade01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

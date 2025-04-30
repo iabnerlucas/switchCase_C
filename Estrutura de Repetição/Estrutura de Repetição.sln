@@ -3,15 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura de Repetição", "Estrutura de Repetição\Estrutura de Repetição.csproj", "{5FB316E8-6380-4316-94D9-95C275779AA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estrutura de Repetição", "Estrutura de Repetição\Estrutura de Repetição.csproj", "{5FB316E8-6380-4316-94D9-95C275779AA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade01", "Atividade01\Atividade01.csproj", "{3F91CD20-BB80-40E7-A04D-7AA3AC1D2728}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade01", "Atividade01\Atividade01.csproj", "{3F91CD20-BB80-40E7-A04D-7AA3AC1D2728}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade02", "Atividade02\Atividade02.csproj", "{A7C094A0-CDC4-46E8-9569-EA1C03AA9CAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade02", "Atividade02\Atividade02.csproj", "{A7C094A0-CDC4-46E8-9569-EA1C03AA9CAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade03", "Atividade03\Atividade03.csproj", "{C35DA223-A336-4501-81BE-0D391782CC6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade03", "Atividade03\Atividade03.csproj", "{C35DA223-A336-4501-81BE-0D391782CC6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade04", "Atividade04\Atividade04.csproj", "{7F73ABD8-4D34-458D-B7ED-3BA7DA8D38CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade04", "Atividade04\Atividade04.csproj", "{7F73ABD8-4D34-458D-B7ED-3BA7DA8D38CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade5", "Atividade5\Atividade5.csproj", "{A44211DA-BEA4-4760-A9EF-629D833EBE1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade06", "Atividade06\Atividade06.csproj", "{2C414E7E-8F60-4618-BCF5-6B5AFB231781}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade07", "Atividade07\Atividade07.csproj", "{6C45EFF7-0A8D-4BBE-B791-B9DC29E2B174}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade08", "Atividade08\Atividade08.csproj", "{9119DD08-3126-4D80-8EAC-8CE7CE11520B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +47,22 @@ Global
 		{7F73ABD8-4D34-458D-B7ED-3BA7DA8D38CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F73ABD8-4D34-458D-B7ED-3BA7DA8D38CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F73ABD8-4D34-458D-B7ED-3BA7DA8D38CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A44211DA-BEA4-4760-A9EF-629D833EBE1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44211DA-BEA4-4760-A9EF-629D833EBE1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44211DA-BEA4-4760-A9EF-629D833EBE1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44211DA-BEA4-4760-A9EF-629D833EBE1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C414E7E-8F60-4618-BCF5-6B5AFB231781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C414E7E-8F60-4618-BCF5-6B5AFB231781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C414E7E-8F60-4618-BCF5-6B5AFB231781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C414E7E-8F60-4618-BCF5-6B5AFB231781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C45EFF7-0A8D-4BBE-B791-B9DC29E2B174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C45EFF7-0A8D-4BBE-B791-B9DC29E2B174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C45EFF7-0A8D-4BBE-B791-B9DC29E2B174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C45EFF7-0A8D-4BBE-B791-B9DC29E2B174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9119DD08-3126-4D80-8EAC-8CE7CE11520B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9119DD08-3126-4D80-8EAC-8CE7CE11520B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9119DD08-3126-4D80-8EAC-8CE7CE11520B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9119DD08-3126-4D80-8EAC-8CE7CE11520B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
